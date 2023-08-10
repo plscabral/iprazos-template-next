@@ -86,7 +86,7 @@ export function SignUpForm() {
             register={register("confirmarSenha")}
           />
 
-          <Button className="bg-teal-500 hover:bg-teal-600">
+          <Button type='submit' className="bg-teal-500 hover:bg-teal-600">
             Cadastrar
           </Button>
 
