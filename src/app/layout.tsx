@@ -16,6 +16,9 @@ import { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'IPrazos',
   description: '',
+  icons: {
+    icon: '/favicon.ico'
+  }
 }
 
 const isAuth = false;
