@@ -1,4 +1,4 @@
-import './globals.css'
+import '@/styles/globals.css'
 
 // layouts
 import { AuthLayout } from '@/layouts/AuthLayout';
